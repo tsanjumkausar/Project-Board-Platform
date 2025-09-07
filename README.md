@@ -1,4 +1,4 @@
-# Project Management System (PMS)
+# Project Board Platform 
 
 A modern web application for managing projects, tasks, and teams with real-time updates and role-based access.
 
@@ -141,4 +141,5 @@ npm start
 - **Module not found:** Run `npm install` in both root and client directories
 
 ---
+
 **Tech Used:** React • Node.js • Express • MongoDB • Tailwind CSS • Socket.IO 
